@@ -1,0 +1,26 @@
+.wood{
+    padding-top:200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.woodCloth{
+    font-weight: 700;
+    font-size: 80px;
+}
+.text{
+    font-size: 16px;
+    color: #2e3033;
+}
+.buy{
+    padding: 20px 50px;
+  background-color: red;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+}
+.section1{
+    width:500px;
+}
